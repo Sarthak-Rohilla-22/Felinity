@@ -67,7 +67,7 @@ function CatImages() {
       </div>
       <button
         onClick={() => fetchNextPage()}
-        className="mx-auto block rounded-md bg-taupe-800 px-8 py-3 font-cute text-sm font-medium tracking-wide text-stone-100 transition-all duration-200 hover:bg-taupe-700 hover:scale-105 disabled:cursor-not-allowed disabled:opacity-50 mb-5 cursor-pointer"
+        className="mx-auto block rounded-md bg-taupe-800 px-8 py-3 font-cute text-lg font-medium tracking-wide text-stone-100 transition-all duration-200 hover:bg-taupe-700 hover:scale-105 disabled:cursor-not-allowed disabled:opacity-50 cursor-pointer mt-10"
         disabled={!hasNextPage || isFetching}
       >
         {isFetchingNextPage

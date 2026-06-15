@@ -84,6 +84,7 @@ const router = createBrowserRouter([
           {
             path: "edit/:postId",
             element: <EditPost />,
+            errorElement: <ErrorComp />,
           },
         ],
       },
