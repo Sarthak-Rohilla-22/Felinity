@@ -47,7 +47,7 @@ function CatImages() {
   return (
     <PageContainer
       heading="Discover Cats"
-      subHeading="Cute cats to increase your cortisol level"
+      subHeading="Cute cats to increase your serotonin level"
     >
       <div className="max-w-7xl mx-auto px-4">
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 sm:gap-6">
