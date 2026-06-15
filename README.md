@@ -53,6 +53,7 @@ Full social media-style community platform. Supabase database contains interconn
 ### Cat Breed Explorer
 - Fetches complete breed information from The Cat API
 - Browse detailed information for all cat breeds
+- Pagination
 - Search breeds by name
 - Sort breeds alphabetically (A-Z)
 - Sort breeds alphabetically (Z-A)
